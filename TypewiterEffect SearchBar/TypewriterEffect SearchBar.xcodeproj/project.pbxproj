@@ -7,15 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		75C7C0B82BAC551B00444AA5 /* TypewiterEffect_SearchBarApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75C7C0B72BAC551B00444AA5 /* TypewiterEffect_SearchBarApp.swift */; };
+		75C7C0B82BAC551B00444AA5 /* TypewriterEffect_SearchBarApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75C7C0B72BAC551B00444AA5 /* TypewriterEffect_SearchBarApp.swift */; };
 		75C7C0BA2BAC551B00444AA5 /* SearchViewWithAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75C7C0B92BAC551B00444AA5 /* SearchViewWithAnimation.swift */; };
 		75C7C0BC2BAC551F00444AA5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 75C7C0BB2BAC551F00444AA5 /* Assets.xcassets */; };
 		75C7C0BF2BAC551F00444AA5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 75C7C0BE2BAC551F00444AA5 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		75C7C0B42BAC551B00444AA5 /* TypewiterEffect SearchBar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "TypewiterEffect SearchBar.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		75C7C0B72BAC551B00444AA5 /* TypewiterEffect_SearchBarApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypewiterEffect_SearchBarApp.swift; sourceTree = "<group>"; };
+		75C7C0B42BAC551B00444AA5 /* TypewriterEffect SearchBar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "TypewriterEffect SearchBar.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		75C7C0B72BAC551B00444AA5 /* TypewriterEffect_SearchBarApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypewriterEffect_SearchBarApp.swift; sourceTree = "<group>"; };
 		75C7C0B92BAC551B00444AA5 /* SearchViewWithAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewWithAnimation.swift; sourceTree = "<group>"; };
 		75C7C0BB2BAC551F00444AA5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		75C7C0BE2BAC551F00444AA5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -35,7 +35,7 @@
 		75C7C0AB2BAC551B00444AA5 = {
 			isa = PBXGroup;
 			children = (
-				75C7C0B62BAC551B00444AA5 /* TypewiterEffect SearchBar */,
+				75C7C0B62BAC551B00444AA5 /* TypewriterEffect SearchBar */,
 				75C7C0B52BAC551B00444AA5 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -43,20 +43,20 @@
 		75C7C0B52BAC551B00444AA5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				75C7C0B42BAC551B00444AA5 /* TypewiterEffect SearchBar.app */,
+				75C7C0B42BAC551B00444AA5 /* TypewriterEffect SearchBar.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		75C7C0B62BAC551B00444AA5 /* TypewiterEffect SearchBar */ = {
+		75C7C0B62BAC551B00444AA5 /* TypewriterEffect SearchBar */ = {
 			isa = PBXGroup;
 			children = (
-				75C7C0B72BAC551B00444AA5 /* TypewiterEffect_SearchBarApp.swift */,
+				75C7C0B72BAC551B00444AA5 /* TypewriterEffect_SearchBarApp.swift */,
 				75C7C0B92BAC551B00444AA5 /* SearchViewWithAnimation.swift */,
 				75C7C0BB2BAC551F00444AA5 /* Assets.xcassets */,
 				75C7C0BD2BAC551F00444AA5 /* Preview Content */,
 			);
-			path = "TypewiterEffect SearchBar";
+			path = "TypewriterEffect SearchBar";
 			sourceTree = "<group>";
 		};
 		75C7C0BD2BAC551F00444AA5 /* Preview Content */ = {
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		75C7C0B32BAC551B00444AA5 /* TypewiterEffect SearchBar */ = {
+		75C7C0B32BAC551B00444AA5 /* TypewriterEffect SearchBar */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 75C7C0C22BAC551F00444AA5 /* Build configuration list for PBXNativeTarget "TypewiterEffect SearchBar" */;
+			buildConfigurationList = 75C7C0C22BAC551F00444AA5 /* Build configuration list for PBXNativeTarget "TypewriterEffect SearchBar" */;
 			buildPhases = (
 				75C7C0B02BAC551B00444AA5 /* Sources */,
 				75C7C0B12BAC551B00444AA5 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = "TypewiterEffect SearchBar";
+			name = "TypewriterEffect SearchBar";
 			productName = "TypewiterEffect SearchBar";
-			productReference = 75C7C0B42BAC551B00444AA5 /* TypewiterEffect SearchBar.app */;
+			productReference = 75C7C0B42BAC551B00444AA5 /* TypewriterEffect SearchBar.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 75C7C0AF2BAC551B00444AA5 /* Build configuration list for PBXProject "TypewiterEffect SearchBar" */;
+			buildConfigurationList = 75C7C0AF2BAC551B00444AA5 /* Build configuration list for PBXProject "TypewriterEffect SearchBar" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				75C7C0B32BAC551B00444AA5 /* TypewiterEffect SearchBar */,
+				75C7C0B32BAC551B00444AA5 /* TypewriterEffect SearchBar */,
 			);
 		};
 /* End PBXProject section */
@@ -138,7 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				75C7C0BA2BAC551B00444AA5 /* SearchViewWithAnimation.swift in Sources */,
-				75C7C0B82BAC551B00444AA5 /* TypewiterEffect_SearchBarApp.swift in Sources */,
+				75C7C0B82BAC551B00444AA5 /* TypewriterEffect_SearchBarApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -325,7 +325,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		75C7C0AF2BAC551B00444AA5 /* Build configuration list for PBXProject "TypewiterEffect SearchBar" */ = {
+		75C7C0AF2BAC551B00444AA5 /* Build configuration list for PBXProject "TypewriterEffect SearchBar" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				75C7C0C02BAC551F00444AA5 /* Debug */,
@@ -334,7 +334,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		75C7C0C22BAC551F00444AA5 /* Build configuration list for PBXNativeTarget "TypewiterEffect SearchBar" */ = {
+		75C7C0C22BAC551F00444AA5 /* Build configuration list for PBXNativeTarget "TypewriterEffect SearchBar" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				75C7C0C32BAC551F00444AA5 /* Debug */,

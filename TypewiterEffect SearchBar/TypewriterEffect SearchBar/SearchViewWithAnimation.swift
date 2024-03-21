@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  TypewiterEffect SearchBar
+//  TypewriterEffect SearchBar
 //
 //  Created by Anurag Pandit on 21/03/24.
 //
