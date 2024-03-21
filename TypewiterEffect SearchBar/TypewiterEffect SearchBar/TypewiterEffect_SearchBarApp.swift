@@ -11,7 +11,7 @@ import SwiftUI
 struct TypewiterEffect_SearchBarApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SearchViewWithAnimation()
         }
     }
 }
